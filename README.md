@@ -13,7 +13,7 @@
 💯 Me dedico a varios campos en lo tecnológico a nivel profesional, como ser; <strong> Diseño Gráfico, Diseño y Desarrollo de Software, Desarrollo Web y Aplicaciones Móbiles, Programación, Hacking, </strong> entre otros 🔥. 
 </p>
 
-<h2 align="center">Manejo de Tecnologías 👨🏻‍💻</h2>
+<h2 align="center">Manejo de algunas Tecnologías como: 👨🏻‍💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
